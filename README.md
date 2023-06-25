@@ -1,1 +1,2 @@
-# MJTT
+# MJTT 美剧天堂
+![3C88CA689B724A8A09E01FA9AE56B25C](https://github.com/huycode/MJTT/assets/29591051/93dc0820-7c08-482f-af24-df559cb5a4e9)
